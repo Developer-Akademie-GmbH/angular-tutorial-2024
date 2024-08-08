@@ -1,0 +1,38 @@
+[
+    {
+        "img": "./assets/img/0.webp",
+        "name": "Birdie",
+        "time": "vor 5 Minuten",
+        "text": "Lorem "
+    },
+    {
+        "img": "/assets/img/1.webp",
+        "name": "Hannah",
+        "time": "vor 5 Minuten",
+        "text": "Hallo"
+    },
+    {
+        "img": "/assets/img/2.webp",
+        "name": "Ole",
+        "time": "vor 5 Minuten",
+        "text": "Wie geht es dir?"
+    },
+    {
+        "img": "/assets/img/3.webp",
+        "name": "Dorothea",
+        "time": "vor 5 Minuten",
+        "text": "Ich lerne programmieren?"
+    },
+    {
+        "img": "/assets/img/2.webp",
+        "name": "Ole",
+        "time": "vor 5 Minuten",
+        "text": "Programmieren macht super Spaß!!"
+    },
+    {
+        "img": "/assets/img/2.webp",
+        "name": "Ole",
+        "time": "vor 5 Minuten",
+        "text": "Ich freue mich schon auf das nächste Projekt!!! :D"
+    }
+]

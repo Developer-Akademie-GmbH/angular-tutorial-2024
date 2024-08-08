@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    background-color: rgb(8, 14, 36);
+    color: white;
+    font-family: "Open Sans", sans-serif;
+}
+
+.profile-image {
+    width: 58px;
+    height: 58px;
+    border-radius: 50%;
+}
+

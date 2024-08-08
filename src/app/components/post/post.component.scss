@@ -1,0 +1,28 @@
+.card {
+    min-height: 120px;
+    background-color: rgb(18, 29, 54);
+    border-radius: 12px;
+    margin-bottom: 16px;
+    display: flex;
+    padding-bottom: 8px;
+}
+
+.card-left {
+    width: 20%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 8px;
+}
+
+.card-right {
+    padding-top: 8px;
+    width: 80%;
+    min-height: 100%;
+}
+
+.card-time{
+    font-size: 12px;
+    margin-bottom: 8px;
+    color: rgba(255, 255, 255, 0.6);
+}
